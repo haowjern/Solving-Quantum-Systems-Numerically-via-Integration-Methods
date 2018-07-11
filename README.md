@@ -1,6 +1,5 @@
 # Solving-Quantum-Systems-Numerically-via-Integration-Methods
-This is a project part of my 3rd Year Computational Physics module, where we studied Numerical Methods. Methods explored are -  Trapezoidal &amp; Simpson’s rules, Monte Carlo methods with ﬂat and important sampling. Monte Carlo with adaptive sampling was also attempted but not fully successful in its implementation.
-
+This is a project part of my 3rd Year Computational Physics module, where we studied Numerical Methods. In this project, numerical integration was performed for an exponential gaussian function using methods - Trapezoidal & Simpson’s rules, Monte Carlo methods with ﬂat and important sampling. Monte Carlo with adaptive sampling was also attempted but not fully successful in its implementation. This project has heavy emphasis on correct implementation, speed of implementation, and error analysis. 
 
 Code runs in Python 3.6 Version
 
